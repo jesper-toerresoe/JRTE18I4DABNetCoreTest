@@ -1,0 +1,8 @@
+﻿https://www.learnentityframeworkcore.com/
+https://www.learnentityframeworkcore.com/migrations 
+https://docs.microsoft.com/en-us/aspnet/core/data/?view=aspnetcore-2.1
+https://blogs.msdn.microsoft.com/dotnet/2018/02/02/entity-framework-core-2-1-roadmap/  
+virtual navigaional properties =>EF Core Lazy Loading
+https://docs.microsoft.com/en-us/ef/core/querying/related-data#lazy-loading
+https://docs.microsoft.com/en-us/dotnet/api/microsoft.aspnetcore.mvc.rendering.selectlistitem?view=aspnetcore-2.1
+https://msdn.microsoft.com/en-us/library/bwabdf9z(v=vs.110).aspx
