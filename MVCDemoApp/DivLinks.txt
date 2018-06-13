@@ -1,0 +1,7 @@
+﻿https://code.msdn.microsoft.com/CRUD-Operation-With-ASPNET-1b70b4fd
+
+https://docs.microsoft.com/en-us/ef/core/get-started/aspnetcore/existing-db
+
+https://docs.microsoft.com/en-us/ef/core/modeling/relational/data-types
+
+https://stackoverflow.com/questions/40729535/how-to-stop-browser-closing-automatically-when-you-stop-debugging-on-vs-2017

@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JRTE18I4DABNetCoreTest", "J
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ContosoUniversity", "ContosoUniversity\ContosoUniversity.csproj", "{7E868459-69BD-4B6F-AE23-32980A71E849}"
 EndProject
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "EmployeeDB", "EmployeeDB\EmployeeDB.sqlproj", "{9D0098E3-9720-4B23-B0B8-F0939E9A0224}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVCDemoApp", "MVCDemoApp\MVCDemoApp.csproj", "{47E3E311-7BD5-435B-B4AC-DAABF45DDA98}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,16 @@ Global
 		{7E868459-69BD-4B6F-AE23-32980A71E849}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E868459-69BD-4B6F-AE23-32980A71E849}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E868459-69BD-4B6F-AE23-32980A71E849}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D0098E3-9720-4B23-B0B8-F0939E9A0224}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D0098E3-9720-4B23-B0B8-F0939E9A0224}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D0098E3-9720-4B23-B0B8-F0939E9A0224}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9D0098E3-9720-4B23-B0B8-F0939E9A0224}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D0098E3-9720-4B23-B0B8-F0939E9A0224}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D0098E3-9720-4B23-B0B8-F0939E9A0224}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{47E3E311-7BD5-435B-B4AC-DAABF45DDA98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47E3E311-7BD5-435B-B4AC-DAABF45DDA98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47E3E311-7BD5-435B-B4AC-DAABF45DDA98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47E3E311-7BD5-435B-B4AC-DAABF45DDA98}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
